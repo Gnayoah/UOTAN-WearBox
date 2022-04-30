@@ -1,4 +1,4 @@
-# 中文 Chinese
+# Chinese
 #### 介绍
 智能手表可以安装第三方应用,还可以Root!支持一键安装，无效复杂命令行！
 在你的智能手表上安装卸载软件，修改DPI，清理内存等操作从未如此简单！
@@ -25,7 +25,7 @@
 提示：软件内置了开启ADB调试的教程[ADB调试 = USB调试]
 OPPO Watch 用户需要在开启adb调试后选择文件传输模式
 
-# 英文 English
+# English
 #### Introduction
 Smart watches can install third-party applications and root! Support one click installation, invalid complex command line!
 Installing and uninstalling software on your smart watch, modifying DPI, cleaning memory and other operations have never been so simple!
