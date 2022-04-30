@@ -1,23 +1,38 @@
-# WatchAssistant手表助手
+# WatchAssistant(手表助手)
 
 #### 介绍
-什么？你居然不知道智能手表可以安装第三方应用？还可以Root？
-使用手表助手轻松解决！支持一键安装，无效复杂命令行！
+智能手表可以安装第三方应用,还可以Root!支持一键安装，无效复杂命令行！
 在你的智能手表上安装卸载软件，修改DPI，清理内存等操作从未如此简单！
 
 #### 下载前请检查
 
-1.  仅支持x64位以上的设系统安装
-2.  推荐使用Win11，兼容Win10~Win7系统
-3.  设备支持USB 3.0或以上接口（或支持WLAN）
+1.  仅支持x64位的系统安装
+2.  推荐使用Win11，兼容Win7~Win10系统
+3.  设备支持USB 2.0或以上接口（或支持WLAN/蓝牙）
 
 #### 安装教程
 
-1.  前往 [官网](https://uotan.ltd/) 下载最新版本  
+1.  前往 [官网](https://www.miuibbs.com/) 下载最新版本  
 2.  安装手表助手（出现报毒情况请信任程序)
 3.  双击程序打开手表助手即可使用（程序内自带驱动，可以部分系统不支持，需要从浏览器下载驱动）
 
 #### 使用说明
  
-（提示：软件内置了开启ADB调试的教程[ADB调试 = USB调试]）
+提示：软件内置了开启ADB调试的教程[ADB调试 = USB调试]
 OPPO Watch 用户需要在开启adb调试后选择文件传输模式
+
+#Watch assistant
+####Introduction
+Smart watches can install third-party applications and root! Support one click installation, invalid complex command line!
+Installing and uninstalling software on your smart watch, modifying DPI, cleaning memory and other operations have never been so simple!
+####Please check before downloading
+1. Only x64 bit system installation is supported
+2. Win11 is recommended and compatible with win7 ~ win10 systems
+3. The device supports USB 2.0 or above interface (or WLAN / Bluetooth)
+####Installation tutorial
+1. Go to [official website]（ https://www.miuibbs.com/ ）Download the latest version
+2. Install watch assistant (please trust the program in case of poison reporting)
+3. Double click the program to open the watch assistant to use (the program has its own driver, which can be unsupported by some systems, and the driver needs to be downloaded from the browser)
+####Instructions for use
+Tip: the software has built-in tutorial for opening ADB debugging [ADB debugging = USB debugging]
+Oppo watch users need to select the file transfer mode after enabling ADB debugging
