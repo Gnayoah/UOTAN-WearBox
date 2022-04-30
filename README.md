@@ -3,6 +3,11 @@
 智能手表可以安装第三方应用,还可以Root!支持一键安装，无效复杂命令行！
 在你的智能手表上安装卸载软件，修改DPI，清理内存等操作从未如此简单！
 
+这是一款使用 Easy Programming Language 制作的程序，因此他拥有以下特性：
+1.内存占用小
+2.界面美观且友好
+3.兼容性友好
+
 #### 下载前请检查
 
 1.  仅支持x64位的系统安装
@@ -25,13 +30,18 @@ OPPO Watch 用户需要在开启adb调试后选择文件传输模式
 Smart watches can install third-party applications and root! Support one click installation, invalid complex command line!
 Installing and uninstalling software on your smart watch, modifying DPI, cleaning memory and other operations have never been so simple!
 
+This is a program made with Easy Programming Language, so it has the following features:
+1. Small memory consumption
+2. Beautiful and friendly interface
+3. Compatibility and friendliness
+
 #### Please check before downloading
 1. Only x64 bit system installation is supported
 2. Win11 is recommended and compatible with win7 ~ win10 systems
 3. The device supports USB 2.0 or above interface (or WLAN / Bluetooth)
  
 #### Installation tutorial
-1. Go to [official website]（ https://www.miuibbs.com/ ）Download the latest version
+1. Go to [official website](https://www.miuibbs.com/) Download the latest version
 2. Install watch assistant (please trust the program in case of poison reporting)
 3. Double click the program to open the watch assistant to use (the program has its own driver, which can be unsupported by some systems, and the driver needs to be downloaded from the browser)
  
