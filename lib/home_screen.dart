@@ -204,11 +204,11 @@ class _HomeScreenState extends State<HomeScreen> with WindowListener {
 
   // 打开浏览器跳转到指定URL
   void _launchURL() async {
-    const url = 'https://wear.gnayoah.com';
-    if (await canLaunch(url)) {
-      await launch(url);
+    final Uri uri = Uri.parse('https://wear.gnayoah.com');
+    if (await canLaunchUrl(uri)) {
+      await launchUrl(uri, mode: LaunchMode.externalApplication);
     } else {
-      throw 'Could not launch $url';
+      throw 'Could not launch ${uri.toString()}';
     }
   }
 
